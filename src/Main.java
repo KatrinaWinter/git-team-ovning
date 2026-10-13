@@ -1,4 +1,1 @@
-/*
- * Etapp B – Java och Git
- * Startpunkt för programmet.
- */
+// Start. Klasserna kommer nästa pass.

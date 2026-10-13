@@ -11,3 +11,11 @@ samarbete i team.
 - Skapa commits
 - Använda Pull Requests
 - Samarbeta via GitHub
+
+## Arbetsflöde i team
+
+1. Skapa en feature-branch.
+2. Gör ändringar och skapa commits.
+3. Pusha branchen till GitHub.
+4. Öppna en Pull Request.
+5. Granska och merga ändringarna.

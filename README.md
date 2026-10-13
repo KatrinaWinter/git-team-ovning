@@ -10,7 +10,7 @@ samarbete i team.
 - Arbeta med feature-branches
 - Skapa commits
 - Använda Pull Requests
-- Samarbeta via GitHub
+- Samarbeta via GitHub med tydlig kommunikation
 
 ## Arbetsflöde i team
 
